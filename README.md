@@ -1,4 +1,4 @@
-# Note_app
+# List Note Application
 
 In this project, I worked on creating a web-app using HTML5, CSS3, JavaScript, Bootstrap, API, JQuery and AJAX.<br />
 The following are the main features that the app reflects. <br />
