@@ -10,4 +10,5 @@ The following are the main features that the app reflects. <br />
 6. The users are allowed to delete the note any time they want.<br />
 
 Below is the screenshot of the application. <br />
+
 ![My picture](https://github.com/megshithakur1/Note_app/blob/master/Screenshots/1.png)
