@@ -12,3 +12,6 @@ The following are the main features that the app reflects. <br />
 Below is the screenshot of the application. <br />
 
 ![My picture](https://github.com/megshithakur1/Note_app/blob/master/Screenshots/1.png)
+
+
+For any queries contact: [Megshi Thakur](https://www.linkedin.com/in/megshithakur/) 
