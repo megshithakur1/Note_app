@@ -9,7 +9,7 @@ The following are the main features that the app reflects. <br />
 5. The users are authorized to update any note at any time, the updated info will be saved as well along with the date and time of updation.<br /> 
 6. The users are allowed to delete the note any time they want.<br />
 
-Below is the screenshot of the application. <br />
+Below is the screenshot of the application: <br />
 
 ![My picture](https://github.com/megshithakur1/Note_app/blob/master/Screenshots/1.png)
 
