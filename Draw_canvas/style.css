@@ -1,0 +1,12 @@
+<style type="text/css">
+#content-wrapper {
+    width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+#canvasRun {
+    background-color: #c00;
+    border: 0;
+    color: #fff;
+}
+</style>

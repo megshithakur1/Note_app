@@ -1,0 +1,12 @@
+.container {
+  max-width: 750px;
+  font-family: 'Courier New', cursive
+}
+
+p{
+  margin: 25px;
+  font-family: 'Courier New', cursive
+}
+h1{
+  font-family: 'Courier New', cursive;
+}
